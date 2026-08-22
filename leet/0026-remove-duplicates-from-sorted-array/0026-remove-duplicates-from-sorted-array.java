@@ -1,0 +1,20 @@
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int i = 0; // officer
+        int unique = 1;
+        int j = 1; // cm
+        int n = nums.length;
+        while (j < n){
+            if(nums[j] == nums[j-1]){
+                j++;
+                continue;
+            }
+            nums[i+1] = nums[j];
+            i++;
+            unique++;
+            j++;
+        }
+
+        return unique;
+    }
+}
