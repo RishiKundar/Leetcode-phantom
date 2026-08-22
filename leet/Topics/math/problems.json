@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-22T05:53:00.348Z",
+  "updatedAt": "2026-08-22T05:53:03.447Z",
   "problems": [
     {
       "frontendId": "2",
@@ -42,7 +42,7 @@
           "filename": "3622-check-divisibility-by-digit-sum-and-product.java",
           "path": "leet/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
           "sha": "c3b400d8adb68958cf63015f9bf4f465244f3d3e",
-          "lastSyncedAt": "2026-08-22T05:53:00.348Z"
+          "lastSyncedAt": "2026-08-22T05:53:03.447Z"
         }
       ]
     }
