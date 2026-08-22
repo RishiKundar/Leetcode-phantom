@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-21T17:27:27.191Z",
-  "problems": []
+  "updatedAt": "2026-08-22T04:54:53.360Z",
+  "problems": [
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "leet/0234-palindrome-linked-list/",
+      "readmePath": "leet/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0234-palindrome-linked-list.java",
+          "path": "leet/0234-palindrome-linked-list/0234-palindrome-linked-list.java",
+          "sha": "82089eecac66efceb49203f467a78ce101b44dee",
+          "lastSyncedAt": "2026-08-22T04:54:53.360Z"
+        }
+      ]
+    }
+  ]
 }
