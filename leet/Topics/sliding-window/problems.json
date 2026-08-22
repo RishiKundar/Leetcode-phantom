@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-22T04:55:23.614Z",
+  "updatedAt": "2026-08-22T04:55:54.032Z",
   "problems": [
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "leet/0076-minimum-window-substring/",
+      "readmePath": "leet/0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0076-minimum-window-substring.java",
+          "path": "leet/0076-minimum-window-substring/0076-minimum-window-substring.java",
+          "sha": "d272ee4836e1b607f13373ee66b4b94f50eecdc1",
+          "lastSyncedAt": "2026-08-22T04:55:54.032Z"
+        }
+      ]
+    },
     {
       "frontendId": "713",
       "title": "Subarray Product Less Than K",
