@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-22T04:56:18.421Z",
+  "updatedAt": "2026-08-22T04:56:24.763Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,6 +103,26 @@
           "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "504426fcdda56b83a2bb2940b2e2d612b4c036dc",
           "lastSyncedAt": "2026-08-22T04:56:11.293Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "leet/0904-fruit-into-baskets/",
+      "readmePath": "leet/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0904-fruit-into-baskets.java",
+          "path": "leet/0904-fruit-into-baskets/0904-fruit-into-baskets.java",
+          "sha": "bead0c75ecd65bd0fa8a4bfea58865ad36b14aec",
+          "lastSyncedAt": "2026-08-22T04:56:24.763Z"
         }
       ]
     }
