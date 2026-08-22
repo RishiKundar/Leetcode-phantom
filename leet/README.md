@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 5 | 13 | 1 |
+| 20 | 6 | 13 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 4 days | 12 |
+| 4 days | 4 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,21 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 1 |
 | 2026-08-20 | 1 |
 | 2026-08-21 | 2 |
+| 2026-08-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 47% |
-| Two Pointers | 9 | 47% |
-| Linked List | 7 | 37% |
-| Sliding Window | 7 | 37% |
-| Hash Table | 6 | 32% |
-| Binary Search | 4 | 21% |
-| Prefix Sum | 3 | 16% |
-| Recursion | 3 | 16% |
-| Sorting | 3 | 16% |
-| String | 3 | 16% |
+| Array | 9 | 45% |
+| Two Pointers | 9 | 45% |
+| Linked List | 7 | 35% |
+| Sliding Window | 7 | 35% |
+| Hash Table | 6 | 30% |
+| Binary Search | 4 | 20% |
+| Prefix Sum | 3 | 15% |
+| Recursion | 3 | 15% |
+| Sorting | 3 | 15% |
+| String | 3 | 15% |
 
 ## Topics
 
@@ -60,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 7 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quicksort](Topics/quicksort/) | 1 |
