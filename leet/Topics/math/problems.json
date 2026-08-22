@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-22T05:02:59.626Z",
+  "updatedAt": "2026-08-22T05:53:00.348Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "leet/0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "64263c557de5789e52652ef7b58aae2ec46a61b0",
           "lastSyncedAt": "2026-08-22T05:02:59.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "problemName": "3622-check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+      "folderPath": "leet/3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "leet/3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3622-check-divisibility-by-digit-sum-and-product.java",
+          "path": "leet/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
+          "sha": "c3b400d8adb68958cf63015f9bf4f465244f3d3e",
+          "lastSyncedAt": "2026-08-22T05:53:00.348Z"
         }
       ]
     }
