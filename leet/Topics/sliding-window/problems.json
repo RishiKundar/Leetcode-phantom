@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-22T05:00:13.753Z",
+  "updatedAt": "2026-08-22T05:00:18.347Z",
   "problems": [
     {
       "frontendId": "3",
@@ -122,7 +122,7 @@
           "filename": "0904-fruit-into-baskets.java",
           "path": "leet/0904-fruit-into-baskets/0904-fruit-into-baskets.java",
           "sha": "bead0c75ecd65bd0fa8a4bfea58865ad36b14aec",
-          "lastSyncedAt": "2026-08-22T04:58:37.713Z"
+          "lastSyncedAt": "2026-08-22T05:00:18.347Z"
         }
       ]
     },
