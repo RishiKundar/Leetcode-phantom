@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T04:55:46.142Z",
+  "updatedAt": "2026-08-22T04:56:39.431Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "leet/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "81d4e8649eabfe75dc62896200e2098b95f9a07c",
           "lastSyncedAt": "2026-08-22T04:55:05.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "leet/0075-sort-colors/",
+      "readmePath": "leet/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "leet/0075-sort-colors/0075-sort-colors.java",
+          "sha": "fb3d10bc81e3a27a8a8a6a1470e8b823410bfa24",
+          "lastSyncedAt": "2026-08-22T04:56:39.431Z"
         }
       ]
     },
