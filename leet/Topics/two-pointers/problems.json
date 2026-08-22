@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T04:58:55.940Z",
+  "updatedAt": "2026-08-22T04:59:23.215Z",
   "problems": [
     {
       "frontendId": "16",
@@ -162,7 +162,7 @@
           "filename": "0234-palindrome-linked-list.java",
           "path": "leet/0234-palindrome-linked-list/0234-palindrome-linked-list.java",
           "sha": "82089eecac66efceb49203f467a78ce101b44dee",
-          "lastSyncedAt": "2026-08-22T04:57:48.053Z"
+          "lastSyncedAt": "2026-08-22T04:59:23.215Z"
         }
       ]
     },
