@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-22T04:58:24.471Z",
+  "updatedAt": "2026-08-22T04:58:42.934Z",
   "problems": [
     {
       "frontendId": "167",
@@ -42,7 +42,7 @@
           "filename": "0209-minimum-size-subarray-sum.java",
           "path": "leet/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "89d7b4bb9b127367b5a75ef76becd1fe416c485a",
-          "lastSyncedAt": "2026-08-22T04:56:31.151Z"
+          "lastSyncedAt": "2026-08-22T04:58:42.934Z"
         }
       ]
     },
