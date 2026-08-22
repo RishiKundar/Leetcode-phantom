@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T05:00:27.624Z",
+  "updatedAt": "2026-08-22T05:00:35.213Z",
   "problems": [
     {
       "frontendId": "16",
@@ -22,7 +22,7 @@
           "filename": "0016-3sum-closest.java",
           "path": "leet/0016-3sum-closest/0016-3sum-closest.java",
           "sha": "977755eae25d0bf74c3e573e2cce047c776c1079",
-          "lastSyncedAt": "2026-08-22T04:58:55.940Z"
+          "lastSyncedAt": "2026-08-22T05:00:35.213Z"
         }
       ]
     },
