@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-22T05:03:47.374Z",
+  "updatedAt": "2026-08-22T05:53:20.981Z",
   "problems": [
     {
       "frontendId": "3",
@@ -102,7 +102,7 @@
           "filename": "0713-subarray-product-less-than-k.java",
           "path": "leet/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "7d4c65c6259ff67aae1aaa73e03620cdb477ea6f",
-          "lastSyncedAt": "2026-08-22T05:03:03.816Z"
+          "lastSyncedAt": "2026-08-22T05:53:20.981Z"
         }
       ]
     },
