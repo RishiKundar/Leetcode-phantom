@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-22T05:04:16.259Z",
+  "updatedAt": "2026-08-22T05:53:05.927Z",
   "problems": [
     {
       "frontendId": "2",
@@ -122,7 +122,7 @@
           "filename": "0234-palindrome-linked-list.java",
           "path": "leet/0234-palindrome-linked-list/0234-palindrome-linked-list.java",
           "sha": "82089eecac66efceb49203f467a78ce101b44dee",
-          "lastSyncedAt": "2026-08-22T05:02:47.701Z"
+          "lastSyncedAt": "2026-08-22T05:53:05.927Z"
         }
       ]
     },
