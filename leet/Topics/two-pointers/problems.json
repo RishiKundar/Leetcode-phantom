@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T04:55:36.227Z",
+  "updatedAt": "2026-08-22T04:55:46.142Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "leet/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "81d4e8649eabfe75dc62896200e2098b95f9a07c",
           "lastSyncedAt": "2026-08-22T04:55:05.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "leet/0141-linked-list-cycle/",
+      "readmePath": "leet/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "leet/0141-linked-list-cycle/0141-linked-list-cycle.java",
+          "sha": "74b225748704eefe49378d4b50ebeff79c399f02",
+          "lastSyncedAt": "2026-08-22T04:55:46.142Z"
         }
       ]
     },
