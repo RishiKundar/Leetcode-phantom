@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-22T04:56:11.293Z",
+  "updatedAt": "2026-08-22T04:56:18.421Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "leet/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "leet/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0003-longest-substring-without-repeating-characters.java",
+          "path": "leet/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
+          "sha": "e4d63da0b46c31072ff1bb7f43aacbbaff4bd87a",
+          "lastSyncedAt": "2026-08-22T04:56:18.421Z"
+        }
+      ]
+    },
     {
       "frontendId": "76",
       "title": "Minimum Window Substring",
