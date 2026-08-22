@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bubble-sort",
+    "name": "Bubble Sort"
+  },
+  "updatedAt": "2026-08-22T04:56:39.431Z",
+  "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "leet/0075-sort-colors/",
+      "readmePath": "leet/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "leet/0075-sort-colors/0075-sort-colors.java",
+          "sha": "fb3d10bc81e3a27a8a8a6a1470e8b823410bfa24",
+          "lastSyncedAt": "2026-08-22T04:56:39.431Z"
+        }
+      ]
+    }
+  ]
+}
