@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-22T04:55:23.614Z",
+  "updatedAt": "2026-08-22T04:56:03.240Z",
   "problems": [
     {
       "frontendId": "713",
@@ -23,6 +23,26 @@
           "path": "leet/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "7d4c65c6259ff67aae1aaa73e03620cdb477ea6f",
           "lastSyncedAt": "2026-08-22T04:55:23.614Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "leet/1004-max-consecutive-ones-iii/",
+      "readmePath": "leet/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "leet/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "sha": "d6510cb5233c816f0a8da0ebc1bdf61f0e8b45d9",
+          "lastSyncedAt": "2026-08-22T04:56:03.240Z"
         }
       ]
     }
