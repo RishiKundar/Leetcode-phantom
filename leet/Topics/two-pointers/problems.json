@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T04:54:53.360Z",
+  "updatedAt": "2026-08-22T04:55:05.708Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "leet/0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "leet/0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0019-remove-nth-node-from-end-of-list.java",
+          "path": "leet/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
+          "sha": "81d4e8649eabfe75dc62896200e2098b95f9a07c",
+          "lastSyncedAt": "2026-08-22T04:55:05.708Z"
+        }
+      ]
+    },
     {
       "frontendId": "234",
       "title": "Palindrome Linked List",
