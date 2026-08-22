@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T05:04:09.034Z",
+  "updatedAt": "2026-08-22T05:04:11.930Z",
   "problems": [
     {
       "frontendId": "16",
@@ -82,7 +82,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.java",
           "path": "leet/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "75732eb5f288d37cf14516a89172e2c0dedb8aa2",
-          "lastSyncedAt": "2026-08-22T05:00:50.986Z"
+          "lastSyncedAt": "2026-08-22T05:04:11.930Z"
         }
       ]
     },
