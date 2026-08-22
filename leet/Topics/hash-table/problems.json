@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-21T17:27:27.191Z",
-  "problems": []
+  "updatedAt": "2026-08-22T04:55:36.227Z",
+  "problems": [
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "leet/0142-linked-list-cycle-ii/",
+      "readmePath": "leet/0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0142-linked-list-cycle-ii.java",
+          "path": "leet/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
+          "sha": "f42179ddec30868393f82f039a94e0dda8746fc6",
+          "lastSyncedAt": "2026-08-22T04:55:36.227Z"
+        }
+      ]
+    }
+  ]
 }
