@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-22T04:55:15.784Z",
+  "updatedAt": "2026-08-22T04:57:18.446Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "leet/0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "64263c557de5789e52652ef7b58aae2ec46a61b0",
           "lastSyncedAt": "2026-08-22T04:55:15.784Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "leet/0206-reverse-linked-list/",
+      "readmePath": "leet/0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0206-reverse-linked-list.java",
+          "path": "leet/0206-reverse-linked-list/0206-reverse-linked-list.java",
+          "sha": "b796d531090b3a02b9ae9e2b06f913c9cfecf0c6",
+          "lastSyncedAt": "2026-08-22T04:57:18.446Z"
         }
       ]
     },
