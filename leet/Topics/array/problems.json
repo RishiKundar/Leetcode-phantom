@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T04:58:55.940Z",
+  "updatedAt": "2026-08-22T04:59:00.063Z",
   "problems": [
     {
       "frontendId": "16",
@@ -162,7 +162,7 @@
           "filename": "0977-squares-of-a-sorted-array.java",
           "path": "leet/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
           "sha": "0715274e21a864e4ef110a6e39695d8f253b836f",
-          "lastSyncedAt": "2026-08-22T04:56:58.767Z"
+          "lastSyncedAt": "2026-08-22T04:59:00.063Z"
         }
       ]
     },
