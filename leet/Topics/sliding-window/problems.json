@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-22T05:00:03.418Z",
+  "updatedAt": "2026-08-22T05:00:09.108Z",
   "problems": [
     {
       "frontendId": "3",
@@ -82,7 +82,7 @@
           "filename": "0424-longest-repeating-character-replacement.java",
           "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "504426fcdda56b83a2bb2940b2e2d612b4c036dc",
-          "lastSyncedAt": "2026-08-22T04:58:29.814Z"
+          "lastSyncedAt": "2026-08-22T05:00:09.108Z"
         }
       ]
     },
