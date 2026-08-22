@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T04:56:39.431Z",
+  "updatedAt": "2026-08-22T04:56:52.452Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "leet/0016-3sum-closest/",
+      "readmePath": "leet/0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0016-3sum-closest.java",
+          "path": "leet/0016-3sum-closest/0016-3sum-closest.java",
+          "sha": "977755eae25d0bf74c3e573e2cce047c776c1079",
+          "lastSyncedAt": "2026-08-22T04:56:52.452Z"
+        }
+      ]
+    },
     {
       "frontendId": "19",
       "title": "Remove Nth Node From End of List",
