@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T05:00:22.500Z",
+  "updatedAt": "2026-08-22T05:00:27.624Z",
   "problems": [
     {
       "frontendId": "16",
@@ -62,7 +62,7 @@
           "filename": "0075-sort-colors.java",
           "path": "leet/0075-sort-colors/0075-sort-colors.java",
           "sha": "fb3d10bc81e3a27a8a8a6a1470e8b823410bfa24",
-          "lastSyncedAt": "2026-08-22T04:58:48.237Z"
+          "lastSyncedAt": "2026-08-22T05:00:27.624Z"
         }
       ]
     },
