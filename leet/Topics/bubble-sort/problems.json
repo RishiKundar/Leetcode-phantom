@@ -4,7 +4,7 @@
     "slug": "bubble-sort",
     "name": "Bubble Sort"
   },
-  "updatedAt": "2026-08-22T04:56:39.431Z",
+  "updatedAt": "2026-08-22T04:58:48.237Z",
   "problems": [
     {
       "frontendId": "75",
@@ -22,7 +22,7 @@
           "filename": "0075-sort-colors.java",
           "path": "leet/0075-sort-colors/0075-sort-colors.java",
           "sha": "fb3d10bc81e3a27a8a8a6a1470e8b823410bfa24",
-          "lastSyncedAt": "2026-08-22T04:56:39.431Z"
+          "lastSyncedAt": "2026-08-22T04:58:48.237Z"
         }
       ]
     }
