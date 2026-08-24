@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 6 | 13 | 1 |
+| 22 | 7 | 14 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 13 |
+| 1 days | 4 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-20 | 1 |
 | 2026-08-21 | 2 |
 | 2026-08-22 | 1 |
+| 2026-08-24 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 45% |
-| Two Pointers | 9 | 45% |
-| Linked List | 7 | 35% |
-| Sliding Window | 7 | 35% |
-| Hash Table | 6 | 30% |
-| Binary Search | 4 | 20% |
-| Prefix Sum | 3 | 15% |
-| Recursion | 3 | 15% |
-| Sorting | 3 | 15% |
-| String | 3 | 15% |
+| Two Pointers | 10 | 45% |
+| Array | 9 | 41% |
+| Linked List | 9 | 41% |
+| Sliding Window | 7 | 32% |
+| Hash Table | 6 | 27% |
+| Recursion | 5 | 23% |
+| Binary Search | 4 | 18% |
+| Prefix Sum | 3 | 14% |
+| Sorting | 3 | 14% |
+| String | 3 | 14% |
 
 ## Topics
 
@@ -60,15 +61,15 @@ Contains topicwise list of solved problems.
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 9 |
 | [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quicksort](Topics/quicksort/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 1 |
+| [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
