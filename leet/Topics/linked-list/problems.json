@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-24T02:12:28.789Z",
+  "updatedAt": "2026-08-24T02:45:08.454Z",
   "problems": [
     {
       "frontendId": "2",
@@ -103,6 +103,26 @@
           "path": "leet/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
           "sha": "f42179ddec30868393f82f039a94e0dda8746fc6",
           "lastSyncedAt": "2026-08-22T05:03:10.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leet/0143-reorder-list/",
+      "readmePath": "leet/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "leet/0143-reorder-list/0143-reorder-list.java",
+          "sha": "603cdf561537a7542acc634ea57cf6fb6057246c",
+          "lastSyncedAt": "2026-08-24T02:45:08.454Z"
         }
       ]
     },
