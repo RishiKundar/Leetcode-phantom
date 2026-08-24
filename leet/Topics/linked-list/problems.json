@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-22T05:53:16.889Z",
+  "updatedAt": "2026-08-24T02:12:28.789Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,6 +43,26 @@
           "path": "leet/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "81d4e8649eabfe75dc62896200e2098b95f9a07c",
           "lastSyncedAt": "2026-08-22T05:53:11.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "leet/0021-merge-two-sorted-lists/",
+      "readmePath": "leet/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0021-merge-two-sorted-lists.java",
+          "path": "leet/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
+          "sha": "4c5b313154724d3363ca192003ad65be6db6864d",
+          "lastSyncedAt": "2026-08-24T02:12:28.789Z"
         }
       ]
     },
