@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-22T05:53:05.927Z",
+  "updatedAt": "2026-08-24T02:45:08.454Z",
   "problems": [
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leet/0143-reorder-list/",
+      "readmePath": "leet/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "leet/0143-reorder-list/0143-reorder-list.java",
+          "sha": "603cdf561537a7542acc634ea57cf6fb6057246c",
+          "lastSyncedAt": "2026-08-24T02:45:08.454Z"
+        }
+      ]
+    },
     {
       "frontendId": "234",
       "title": "Palindrome Linked List",
