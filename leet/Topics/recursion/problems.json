@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-24T02:12:28.789Z",
+  "updatedAt": "2026-08-24T02:45:08.454Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,6 +43,26 @@
           "path": "leet/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "4c5b313154724d3363ca192003ad65be6db6864d",
           "lastSyncedAt": "2026-08-24T02:12:28.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leet/0143-reorder-list/",
+      "readmePath": "leet/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "leet/0143-reorder-list/0143-reorder-list.java",
+          "sha": "603cdf561537a7542acc634ea57cf6fb6057246c",
+          "lastSyncedAt": "2026-08-24T02:45:08.454Z"
         }
       ]
     },
