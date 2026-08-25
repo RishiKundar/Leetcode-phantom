@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 7 | 15 | 1 |
+| 24 | 8 | 15 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 14 |
+| 2 days | 4 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-02 | 2 |
 | 2026-07-29 | 2 |
 | 2026-07-30 | 1 |
 | 2026-08-05 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-08-21 | 2 |
 | 2026-08-22 | 1 |
 | 2026-08-24 | 3 |
+| 2026-08-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 11 | 48% |
-| Linked List | 10 | 43% |
-| Array | 9 | 39% |
-| Sliding Window | 7 | 30% |
-| Hash Table | 6 | 26% |
-| Recursion | 5 | 22% |
+| Two Pointers | 11 | 46% |
+| Array | 10 | 42% |
+| Linked List | 10 | 42% |
+| Hash Table | 7 | 29% |
+| Sliding Window | 7 | 29% |
+| Recursion | 5 | 21% |
 | Binary Search | 4 | 17% |
 | Prefix Sum | 3 | 13% |
 | Sorting | 3 | 13% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 10 |
 | [Math](Topics/math/) | 2 |
