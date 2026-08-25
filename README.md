@@ -141,21 +141,6 @@ The emphasis is not just on collecting accepted submissions. The real objective 
 
 ---
 
-## 📊 Progress Signals
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RishiKundar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiKundar&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=RishiKundar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🐍 Contribution Trail
 
 <div align="center">
