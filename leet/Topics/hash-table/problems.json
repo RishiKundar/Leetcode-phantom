@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-22T05:03:41.805Z",
+  "updatedAt": "2026-08-25T03:14:11.266Z",
   "problems": [
     {
       "frontendId": "3",
@@ -123,6 +123,26 @@
           "path": "leet/0904-fruit-into-baskets/0904-fruit-into-baskets.java",
           "sha": "bead0c75ecd65bd0fa8a4bfea58865ad36b14aec",
           "lastSyncedAt": "2026-08-22T05:03:41.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "leet/3718-smallest-missing-multiple-of-k/",
+      "readmePath": "leet/3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3718-smallest-missing-multiple-of-k.java",
+          "path": "leet/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
+          "sha": "b00e580170fbcb52c33eaf621b68322577e42ecd",
+          "lastSyncedAt": "2026-08-25T03:14:11.266Z"
         }
       ]
     }
