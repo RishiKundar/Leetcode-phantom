@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T05:53:20.981Z",
+  "updatedAt": "2026-08-25T03:14:11.266Z",
   "problems": [
     {
       "frontendId": "16",
@@ -183,6 +183,26 @@
           "path": "leet/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
           "sha": "d6510cb5233c816f0a8da0ebc1bdf61f0e8b45d9",
           "lastSyncedAt": "2026-08-22T05:03:28.326Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "leet/3718-smallest-missing-multiple-of-k/",
+      "readmePath": "leet/3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3718-smallest-missing-multiple-of-k.java",
+          "path": "leet/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
+          "sha": "b00e580170fbcb52c33eaf621b68322577e42ecd",
+          "lastSyncedAt": "2026-08-25T03:14:11.266Z"
         }
       ]
     }
