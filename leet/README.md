@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 8 | 15 | 1 |
+| 25 | 9 | 15 | 1 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-21 | 2 |
 | 2026-08-22 | 1 |
 | 2026-08-24 | 3 |
-| 2026-08-25 | 1 |
+| 2026-08-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 11 | 46% |
-| Array | 10 | 42% |
-| Linked List | 10 | 42% |
-| Hash Table | 7 | 29% |
-| Sliding Window | 7 | 29% |
-| Recursion | 5 | 21% |
-| Binary Search | 4 | 17% |
-| Prefix Sum | 3 | 13% |
-| Sorting | 3 | 13% |
-| String | 3 | 13% |
+| Two Pointers | 12 | 48% |
+| Array | 10 | 40% |
+| Linked List | 10 | 40% |
+| Hash Table | 7 | 28% |
+| Sliding Window | 7 | 28% |
+| Recursion | 5 | 20% |
+| Binary Search | 4 | 16% |
+| String | 4 | 16% |
+| Prefix Sum | 3 | 12% |
+| Sorting | 3 | 12% |
 
 ## Topics
 
@@ -70,6 +70,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [String](Topics/string/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
