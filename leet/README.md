@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 11 | 16 | 1 |
+| 29 | 12 | 16 | 1 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-25 | 2 |
 | 2026-08-26 | 1 |
 | 2026-09-02 | 1 |
-| 2026-09-08 | 1 |
+| 2026-09-08 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 12 | 43% |
-| Array | 11 | 39% |
-| Linked List | 10 | 36% |
-| Sliding Window | 8 | 29% |
-| Hash Table | 7 | 25% |
-| Recursion | 5 | 18% |
-| String | 5 | 18% |
+| Two Pointers | 12 | 41% |
+| Array | 11 | 38% |
+| Linked List | 10 | 34% |
+| Sliding Window | 8 | 28% |
+| Hash Table | 7 | 24% |
+| Recursion | 5 | 17% |
+| String | 5 | 17% |
 | Binary Search | 4 | 14% |
-| Math | 3 | 11% |
-| Prefix Sum | 3 | 11% |
+| Math | 3 | 10% |
+| Prefix Sum | 3 | 10% |
 
 ## Topics
 
@@ -52,12 +52,12 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -73,6 +73,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 5 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
