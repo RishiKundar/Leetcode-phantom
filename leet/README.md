@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 10 | 16 | 1 |
+| 28 | 11 | 16 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 17 |
+| 1 days | 4 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-05 | 1 |
 | 2026-08-06 | 1 |
 | 2026-08-10 | 3 |
 | 2026-08-11 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-08-25 | 2 |
 | 2026-08-26 | 1 |
 | 2026-09-02 | 1 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 12 | 44% |
-| Array | 11 | 41% |
-| Linked List | 10 | 37% |
-| Sliding Window | 8 | 30% |
-| Hash Table | 7 | 26% |
-| Recursion | 5 | 19% |
-| String | 5 | 19% |
-| Binary Search | 4 | 15% |
+| Two Pointers | 12 | 43% |
+| Array | 11 | 39% |
+| Linked List | 10 | 36% |
+| Sliding Window | 8 | 29% |
+| Hash Table | 7 | 25% |
+| Recursion | 5 | 18% |
+| String | 5 | 18% |
+| Binary Search | 4 | 14% |
 | Math | 3 | 11% |
 | Prefix Sum | 3 | 11% |
 
@@ -52,10 +52,12 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -71,5 +73,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 5 |
+| [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
