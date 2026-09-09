@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 12 | 16 | 1 |
+| 30 | 12 | 17 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 18 |
+| 2 days | 4 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-06 | 1 |
 | 2026-08-10 | 3 |
 | 2026-08-11 | 2 |
 | 2026-08-12 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-26 | 1 |
 | 2026-09-02 | 1 |
 | 2026-09-08 | 2 |
+| 2026-09-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 12 | 41% |
-| Array | 11 | 38% |
-| Linked List | 10 | 34% |
-| Sliding Window | 8 | 28% |
-| Hash Table | 7 | 24% |
+| Two Pointers | 12 | 40% |
+| Array | 11 | 37% |
+| Linked List | 10 | 33% |
+| Sliding Window | 8 | 27% |
+| Hash Table | 7 | 23% |
 | Recursion | 5 | 17% |
 | String | 5 | 17% |
-| Binary Search | 4 | 14% |
-| Math | 3 | 10% |
-| Prefix Sum | 3 | 10% |
+| Binary Search | 4 | 13% |
+| Binary Tree | 3 | 10% |
+| Breadth-First Search | 3 | 10% |
 
 ## Topics
 
@@ -52,9 +52,9 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -73,6 +73,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 5 |
-| [Tree](Topics/tree/) | 2 |
+| [Tree](Topics/tree/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
