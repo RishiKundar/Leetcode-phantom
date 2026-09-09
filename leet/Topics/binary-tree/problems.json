@@ -4,8 +4,28 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-08T02:46:41.957Z",
+  "updatedAt": "2026-09-09T02:18:56.284Z",
   "problems": [
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "leet/0102-binary-tree-level-order-traversal/",
+      "readmePath": "leet/0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0102-binary-tree-level-order-traversal.java",
+          "path": "leet/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.java",
+          "sha": "4429e94ceba0c466e3888c58c36170fc5484ef8e",
+          "lastSyncedAt": "2026-09-09T02:18:56.284Z"
+        }
+      ]
+    },
     {
       "frontendId": "104",
       "title": "Maximum Depth of Binary Tree",
