@@ -4,8 +4,28 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-10T03:10:58.364Z",
+  "updatedAt": "2026-09-10T03:33:54.935Z",
   "problems": [
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "leet/0101-symmetric-tree/",
+      "readmePath": "leet/0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0101-symmetric-tree.java",
+          "path": "leet/0101-symmetric-tree/0101-symmetric-tree.java",
+          "sha": "b85db04dbeaf96b8c054ca90dd499d8a01f73956",
+          "lastSyncedAt": "2026-09-10T03:33:54.935Z"
+        }
+      ]
+    },
     {
       "frontendId": "102",
       "title": "Binary Tree Level Order Traversal",
