@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 13 | 21 | 1 |
+| 36 | 14 | 21 | 1 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-09-02 | 1 |
 | 2026-09-08 | 2 |
 | 2026-09-09 | 4 |
-| 2026-09-10 | 2 |
+| 2026-09-10 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 12 | 34% |
+| Two Pointers | 12 | 33% |
 | Array | 11 | 31% |
 | Linked List | 11 | 31% |
-| Binary Tree | 8 | 23% |
-| Breadth-First Search | 8 | 23% |
-| Sliding Window | 8 | 23% |
-| Tree | 8 | 23% |
-| Hash Table | 7 | 20% |
-| Depth-First Search | 5 | 14% |
+| Binary Tree | 9 | 25% |
+| Breadth-First Search | 9 | 25% |
+| Tree | 9 | 25% |
+| Sliding Window | 8 | 22% |
+| Hash Table | 7 | 19% |
+| Depth-First Search | 6 | 17% |
 | Recursion | 5 | 14% |
 
 ## Topics
@@ -52,12 +52,12 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 8 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 9 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -73,6 +73,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 5 |
-| [Tree](Topics/tree/) | 8 |
+| [Tree](Topics/tree/) | 9 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
