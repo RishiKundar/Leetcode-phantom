@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-10T02:09:12.604Z",
+  "updatedAt": "2026-09-10T02:45:32.117Z",
   "problems": [
     {
       "frontendId": "102",
@@ -103,6 +103,26 @@
           "path": "leet/0116-populating-next-right-pointers-in-each-node/0116-populating-next-right-pointers-in-each-node.java",
           "sha": "a49d11fa443a41ba8935dbae126b5af66996a991",
           "lastSyncedAt": "2026-09-10T02:09:12.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "leet/0199-binary-tree-right-side-view/",
+      "readmePath": "leet/0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0199-binary-tree-right-side-view.java",
+          "path": "leet/0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
+          "sha": "18c31ca27c7f91cc91c7fedd5e118e0cbdd73f60",
+          "lastSyncedAt": "2026-09-10T02:45:32.117Z"
         }
       ]
     },
