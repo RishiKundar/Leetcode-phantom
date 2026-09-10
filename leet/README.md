@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 13 | 20 | 1 |
+| 35 | 13 | 21 | 1 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-02 | 1 |
 | 2026-09-08 | 2 |
 | 2026-09-09 | 4 |
-| 2026-09-10 | 1 |
+| 2026-09-10 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 12 | 35% |
-| Array | 11 | 32% |
-| Linked List | 11 | 32% |
-| Sliding Window | 8 | 24% |
-| Binary Tree | 7 | 21% |
-| Breadth-First Search | 7 | 21% |
-| Hash Table | 7 | 21% |
-| Tree | 7 | 21% |
-| Recursion | 5 | 15% |
-| String | 5 | 15% |
+| Two Pointers | 12 | 34% |
+| Array | 11 | 31% |
+| Linked List | 11 | 31% |
+| Binary Tree | 8 | 23% |
+| Breadth-First Search | 8 | 23% |
+| Sliding Window | 8 | 23% |
+| Tree | 8 | 23% |
+| Hash Table | 7 | 20% |
+| Depth-First Search | 5 | 14% |
+| Recursion | 5 | 14% |
 
 ## Topics
 
@@ -52,12 +52,12 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 7 |
+| [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -73,6 +73,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 5 |
-| [Tree](Topics/tree/) | 7 |
+| [Tree](Topics/tree/) | 8 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
