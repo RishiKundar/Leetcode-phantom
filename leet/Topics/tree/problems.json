@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-09T03:44:14.126Z",
+  "updatedAt": "2026-09-10T02:09:12.604Z",
   "problems": [
     {
       "frontendId": "102",
@@ -83,6 +83,26 @@
           "path": "leet/0107-binary-tree-level-order-traversal-ii/0107-binary-tree-level-order-traversal-ii.java",
           "sha": "7240914406e82e76bb1c451d711bc36ff8cbb265",
           "lastSyncedAt": "2026-09-09T03:44:14.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "problemName": "0116-populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+      "folderPath": "leet/0116-populating-next-right-pointers-in-each-node/",
+      "readmePath": "leet/0116-populating-next-right-pointers-in-each-node/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0116-populating-next-right-pointers-in-each-node.java",
+          "path": "leet/0116-populating-next-right-pointers-in-each-node/0116-populating-next-right-pointers-in-each-node.java",
+          "sha": "a49d11fa443a41ba8935dbae126b5af66996a991",
+          "lastSyncedAt": "2026-09-10T02:09:12.604Z"
         }
       ]
     },
