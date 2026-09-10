@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-24T03:05:16.934Z",
+  "updatedAt": "2026-09-10T02:09:12.604Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +63,26 @@
           "path": "leet/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "4c5b313154724d3363ca192003ad65be6db6864d",
           "lastSyncedAt": "2026-08-24T02:12:28.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "problemName": "0116-populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+      "folderPath": "leet/0116-populating-next-right-pointers-in-each-node/",
+      "readmePath": "leet/0116-populating-next-right-pointers-in-each-node/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0116-populating-next-right-pointers-in-each-node.java",
+          "path": "leet/0116-populating-next-right-pointers-in-each-node/0116-populating-next-right-pointers-in-each-node.java",
+          "sha": "a49d11fa443a41ba8935dbae126b5af66996a991",
+          "lastSyncedAt": "2026-09-10T02:09:12.604Z"
         }
       ]
     },
