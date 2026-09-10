@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-09T02:42:26.996Z",
+  "updatedAt": "2026-09-10T02:09:12.604Z",
   "problems": [
     {
       "frontendId": "104",
@@ -23,6 +23,26 @@
           "path": "leet/0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "0f9e6a36cd3e56c94b717b64c19f167f882d8a8c",
           "lastSyncedAt": "2026-09-08T02:46:41.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "problemName": "0116-populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+      "folderPath": "leet/0116-populating-next-right-pointers-in-each-node/",
+      "readmePath": "leet/0116-populating-next-right-pointers-in-each-node/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0116-populating-next-right-pointers-in-each-node.java",
+          "path": "leet/0116-populating-next-right-pointers-in-each-node/0116-populating-next-right-pointers-in-each-node.java",
+          "sha": "a49d11fa443a41ba8935dbae126b5af66996a991",
+          "lastSyncedAt": "2026-09-10T02:09:12.604Z"
         }
       ]
     },
