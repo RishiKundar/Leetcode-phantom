@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 14 | 21 | 1 |
+| 37 | 15 | 21 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 4 days | 20 |
+| 1 days | 4 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 2 |
 | 2026-08-12 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-19 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 2 |
 | 2026-09-09 | 4 |
 | 2026-09-10 | 3 |
+| 2026-09-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 12 | 33% |
-| Array | 11 | 31% |
-| Linked List | 11 | 31% |
-| Binary Tree | 9 | 25% |
-| Breadth-First Search | 9 | 25% |
-| Tree | 9 | 25% |
+| Two Pointers | 12 | 32% |
+| Array | 11 | 30% |
+| Linked List | 11 | 30% |
+| Binary Tree | 10 | 27% |
+| Tree | 10 | 27% |
+| Breadth-First Search | 9 | 24% |
 | Sliding Window | 8 | 22% |
+| Depth-First Search | 7 | 19% |
 | Hash Table | 7 | 19% |
-| Depth-First Search | 6 | 17% |
 | Recursion | 5 | 14% |
 
 ## Topics
@@ -52,12 +52,13 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 9 |
+| [Binary Tree](Topics/binary-tree/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 9 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 6 |
+| [Depth-First Search](Topics/depth-first-search/) | 8 |
+| [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -73,6 +74,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 5 |
-| [Tree](Topics/tree/) | 9 |
+| [Tree](Topics/tree/) | 11 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
