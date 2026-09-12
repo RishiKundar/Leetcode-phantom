@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 15 | 21 | 1 |
+| 38 | 16 | 21 | 1 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 2 |
 | 2026-09-09 | 4 |
 | 2026-09-10 | 3 |
-| 2026-09-12 | 1 |
+| 2026-09-12 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Two Pointers | 12 | 32% |
-| Array | 11 | 30% |
-| Linked List | 11 | 30% |
-| Binary Tree | 10 | 27% |
-| Tree | 10 | 27% |
+| Array | 11 | 29% |
+| Linked List | 11 | 29% |
+| Binary Tree | 10 | 26% |
+| Tree | 10 | 26% |
 | Breadth-First Search | 9 | 24% |
-| Sliding Window | 8 | 22% |
-| Depth-First Search | 7 | 19% |
-| Hash Table | 7 | 19% |
-| Recursion | 5 | 14% |
+| Sliding Window | 8 | 21% |
+| Depth-First Search | 7 | 18% |
+| Hash Table | 7 | 18% |
+| Recursion | 5 | 13% |
 
 ## Topics
 
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 11 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quicksort](Topics/quicksort/) | 1 |
