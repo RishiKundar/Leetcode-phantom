@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T02:53:48.301Z",
+  "updatedAt": "2026-09-12T05:12:07.438Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "leet/0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "64263c557de5789e52652ef7b58aae2ec46a61b0",
           "lastSyncedAt": "2026-08-22T05:53:16.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "leet/2469-convert-the-temperature/",
+      "readmePath": "leet/2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2469-convert-the-temperature.java",
+          "path": "leet/2469-convert-the-temperature/2469-convert-the-temperature.java",
+          "sha": "35e58ab243073ccbb3df23f6762dbf9dbea834aa",
+          "lastSyncedAt": "2026-09-12T05:12:07.438Z"
         }
       ]
     },
