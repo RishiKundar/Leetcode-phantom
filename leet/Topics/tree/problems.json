@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-10T03:33:54.935Z",
+  "updatedAt": "2026-09-12T04:28:23.257Z",
   "problems": [
     {
       "frontendId": "101",
@@ -163,6 +163,26 @@
           "path": "leet/0226-invert-binary-tree/0226-invert-binary-tree.java",
           "sha": "1180a7fe21ac327d018e0347043f01494e7fb038",
           "lastSyncedAt": "2026-09-08T02:38:06.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "leet/0543-diameter-of-binary-tree/",
+      "readmePath": "leet/0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0543-diameter-of-binary-tree.java",
+          "path": "leet/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.java",
+          "sha": "ea121df42861d897bd1c94ad6351cc48c4559ecf",
+          "lastSyncedAt": "2026-09-12T04:28:23.257Z"
         }
       ]
     },
