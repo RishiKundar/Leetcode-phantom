@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-12T04:28:23.257Z",
+  "updatedAt": "2026-09-12T05:22:31.920Z",
   "problems": [
     {
       "frontendId": "101",
@@ -43,6 +43,26 @@
           "path": "leet/0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "0f9e6a36cd3e56c94b717b64c19f167f882d8a8c",
           "lastSyncedAt": "2026-09-08T02:46:41.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "leet/0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "leet/0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0114-flatten-binary-tree-to-linked-list.java",
+          "path": "leet/0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
+          "sha": "6934557030d41f48293871df884334a735fd2c2e",
+          "lastSyncedAt": "2026-09-12T05:22:31.920Z"
         }
       ]
     },
